@@ -9,7 +9,7 @@ body{
     max-width: 600px;
     margin: auto;
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(124, 235, 235);
     display: block;
     padding: 0.5rem;
     border-radius: 1rem;
@@ -17,8 +17,29 @@ body{
 label{
     text-align: center;
     display: block;
+    padding: 0.5rem;
+    font-weight: bold;  
 }
 input{
     display: block;
     margin: auto;
+    width: 30%;
+    height: 10%;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: transparent;
+}
+button{
+    padding: 0.5rem;
+    margin-top: 20px;
+    color: white;
+    background-color:rgb(61, 141, 141) ;
+    border-radius: 0.5rem;
+    border: transparent;
+    font-weight: bold;
+    
+}
+p{
+    text-align: center;
+    font-weight: bold;
 }
