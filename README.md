@@ -8,7 +8,9 @@ If sum of digits in your birthdate is divisible by your lukcy number, then your 
 **How to use?**
 
 1.Enter your birthdate
+
 2.Enter your lucky number
+
 3.Click on Check
 
 And we will show your birthdate is lucky or not on the same page.
